@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adaptor.iml" filepath="$PROJECT_DIR$/Adapter/Adaptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
+    </modules>
+  </component>
+</project>
